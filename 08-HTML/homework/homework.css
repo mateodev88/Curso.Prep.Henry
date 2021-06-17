@@ -1,0 +1,27 @@
+
+h1 
+{
+    color: aqua;
+}
+h3
+{
+    color: salmon;
+}
+img
+{
+    width: 400px;
+
+}
+#thirdDiv
+{
+    width: 500px;
+    height: 700px;
+    background-color: brown;
+    padding: 50px;
+    border: 1px solid black;
+}
+#spanId
+{
+    font-size: 18px;
+    margin: 50px;
+}
